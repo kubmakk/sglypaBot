@@ -2,7 +2,7 @@ import telebot
 import random
 
 # Вставь сюда токен твоего бота от @BotFather
-TOKEN = '8556013274:AAGSpFMw5RzV3-Yh6QiFlCNqPQLeFs6dMAg'
+TOKEN = 'TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 # --- НАШИ ЦЕПИ МАРКОВА ---
